@@ -42,7 +42,7 @@ li a{
   text-align: center;
 }
 header {
-  background-image: url(./images/background.png);
+  background-image: url(background.png);
   background-size: cover;
   background-position: center;
   color: #fff;
